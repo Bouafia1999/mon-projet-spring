@@ -1,0 +1,11 @@
+com\UserManagement\Controller\AuthController.class
+com\UserManagement\Dto\UserDto.class
+com\UserManagement\UserManagement2Application.class
+com\UserManagement\security\CustomUserDetailsService.class
+com\UserManagement\service\Impl\UserServiceImpl.class
+com\UserManagement\Entity\User.class
+com\UserManagement\Repository\RoleRepository.class
+com\UserManagement\Repository\UserRepository.class
+com\UserManagement\service\UserService.class
+com\UserManagement\security\springSecurity.class
+com\UserManagement\Entity\Role.class
